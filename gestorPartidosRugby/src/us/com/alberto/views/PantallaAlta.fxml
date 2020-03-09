@@ -8,7 +8,7 @@
 <?import javafx.scene.layout.AnchorPane?>
 
 
-<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="348.0" prefWidth="673.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="us.com.alberto.views.PantallaPrincipalController">
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="348.0" prefWidth="673.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="us.com.alberto.views.PantallaAltaController">
    <children>
       <Label layoutX="102.0" layoutY="66.0" text="Local:" AnchorPane.leftAnchor="102.0" AnchorPane.topAnchor="66.0" />
       <TextField fx:id="textFieldLocal" layoutX="151.0" layoutY="62.0" AnchorPane.leftAnchor="151.0" AnchorPane.topAnchor="62.0" />
